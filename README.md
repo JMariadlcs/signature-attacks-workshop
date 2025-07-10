@@ -155,9 +155,4 @@ This vulnerability has been exploited in several real-world scenarios:
 - Gaining admin privileges in governance systems
 - Exploiting token transfer mechanisms
 
-## Additional Resources
 
-- [OpenZeppelin ECDSA Documentation](https://docs.openzeppelin.com/contracts/4.x/api/utils#ECDSA)
-- [Consensys Smart Contract Best Practices](https://consensys.net/diligence/blog/2019/09/stop-using-soliditys-transfer-now/)
-- [SWC-117: Signature Malleability](https://swcregistry.io/docs/SWC-117)
-# signature-attacks-workshop
